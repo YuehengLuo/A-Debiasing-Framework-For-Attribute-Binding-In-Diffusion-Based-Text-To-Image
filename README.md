@@ -1,5 +1,3 @@
-# A-Debiasing-Framework-For-Attribute-Binding-In-Diffusion-Based-Text-To-Image
-
 Official PyTorch implementation of the paper:  
 **"A Debiasing Framework for Attribute Binding in Diffusion-Based Text-to-Image"**
 
@@ -24,6 +22,6 @@ Our implementation is inspired by and built upon the following projects:
 
 ## 📬 Contact
 
-For questions or collaborations, please contact: **luoyueheng@bupt.edu.cn**
+For questions, please contact: **luoyueheng@bupt.edu.cn**
 
 
