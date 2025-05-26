@@ -1,6 +1,6 @@
 # A-Debiasing-Framework-For-Attribute-Binding-In-Diffusion-Based-Text-To-Image
 
-Official PyTorch implementation of the paper:  
+code release for paper:  
 **"A Debiasing Framework for Attribute Binding in Diffusion-Based Text-to-Image"**
 
 ## 📖 Overview
@@ -18,6 +18,14 @@ The environment setup and part of the implementation are based on the following 
 
 - [Magnet (I2-Multimedia-Lab)](https://github.com/I2-Multimedia-Lab/Magnet)  
 - [Rare-to-Frequent (Krafton AI)](https://github.com/krafton-ai/Rare-to-Frequent)
+
+## 🚀 Inference
+
+To run inference using the provided script, first navigate to the project root directory, then execute:
+
+```
+cd script
+bash inference.sh
 
 ## 🙏 Acknowledgements
 
