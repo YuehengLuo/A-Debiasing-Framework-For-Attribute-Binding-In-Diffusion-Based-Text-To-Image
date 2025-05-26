@@ -1,3 +1,5 @@
+# A-Debiasing-Framework-For-Attribute-Binding-In-Diffusion-Based-Text-To-Image
+
 Official PyTorch implementation of the paper:  
 **"A Debiasing Framework for Attribute Binding in Diffusion-Based Text-to-Image"**
 
@@ -12,13 +14,14 @@ We present a debiasing framework that enhances attribute-object binding in diffu
 - PyTorch 2.4.1+cu121  
 - GPU: NVIDIA A800 
 
-## 🔗 Reference Codebases
-
-Our implementation is inspired by and built upon the following projects:
+The environment setup and part of the implementation are based on the following open-source projects:
 
 - [Magnet (I2-Multimedia-Lab)](https://github.com/I2-Multimedia-Lab/Magnet)  
 - [Rare-to-Frequent (Krafton AI)](https://github.com/krafton-ai/Rare-to-Frequent)
 
+## 🙏 Acknowledgements
+
+We sincerely thank the authors of **Magnet** and **Rare-to-Frequent** for their excellent open-source work, which served as the foundation and inspiration for this project.
 
 ## 📬 Contact
 
