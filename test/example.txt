@@ -1,0 +1,86 @@
+{
+    "A dancing vase": {
+        "Bias_level": "3",
+        "Alternating_prompt": [
+            [
+                "A dancing object",
+                "A dancing vase"
+            ]
+        ]
+    },
+    "a plastic cup and a wooden knife": {
+        "Bias_level": [
+            "3"
+        ],
+        "Alternating_prompt": [
+            [
+                "a plastic cup and a wooden utensil",
+                "a plastic cup and a wooden knife"
+            ]
+        ]
+    },
+    "A dancing cloud": {
+        "Bias_level": "2",
+        "Alternating_prompt": [
+            [
+                "A dancing white object",
+                "A dancing cloud"
+            ]
+        ]
+    },
+    "a green banana and a brown horse": {
+        "Bias_level": [
+            "0"
+        ],
+        "Alternating_prompt": [
+            [
+                "a green banana and a brown horse"
+            ]
+        ]
+    },
+    "a pentagonal speed limit sign and a pyramidal paperweight": {
+        "Bias_level": [
+            "1",
+            "3"
+        ],
+        "Alternating_prompt": [
+            [
+                "a five-sided sign and a pyramid",
+                "a pentagonal speed limit sign and a pyramid",
+                "a pentagonal speed limit sign and a pyramidal paperweight"
+            ]
+        ]
+    },
+    "a brown banana and a green horse": {
+        "Bias_level": [
+            "3"
+        ],
+        "Alternating_prompt": [
+            [
+                "a brown banana and a green animal",
+                "a brown banana and a green horse"
+            ]
+        ]
+    },
+    "The square book was next to the green notebook.": {
+        "Bias_level": [
+            "1"
+        ],
+        "Alternating_prompt": [
+            [
+                "the square object was next to the green notebook.",
+                "The square book was next to the green notebook."
+            ]
+        ]
+    },
+    "a blue cake and a red suitcase": {
+        "Bias_level": [
+            "0"
+        ],
+        "Alternating_prompt": [
+            [
+                "a blue cake and a red suitcase"
+            ]
+        ]
+    }
+}
