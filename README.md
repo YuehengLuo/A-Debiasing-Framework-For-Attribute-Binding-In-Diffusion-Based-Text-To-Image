@@ -22,8 +22,6 @@ The environment setup and part of the implementation are based on the following 
 ## 🚀 Inference
 
 To run inference using the provided script, first navigate to the `script` directory, then execute:
-
-cd script
 bash inference.sh
 
 ## 🙏 Acknowledgements
